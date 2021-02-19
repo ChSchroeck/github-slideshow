@@ -1,0 +1,7 @@
+{
+    "identifier": "com.org.showpad",
+    "name": "sigdeploy",
+    "version": "1.0.1",
+    "description": "set the signature",
+    "author": "Chris Schröck"
+}
